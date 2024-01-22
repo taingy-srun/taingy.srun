@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding.
 - 🌱 I’m currently pursuing a master's degree in Computer Science.
 - 💞️ I’m looking for opportunities to grow.
-- 📫 How to reach me: 📧 taingy.srun20@gmail.com
+- 📫 Reach me at: taingy.srun20@gmail.com
 
 <!---
 taingy-srun/taingy-srun is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
