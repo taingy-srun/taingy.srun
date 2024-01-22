@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @taingy-srun
 - 👀 I’m interested in coding.
-- 🌱 I’m currently learning algorithms and system design.
+- 🌱 I’m currently pursuing a master's degree in Computer Science.
 - 💞️ I’m looking for opportunities to grow.
 - 📫 How to reach me: 📧 taingy.srun20@gmail.com
 
